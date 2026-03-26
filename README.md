@@ -3,10 +3,10 @@
 **Backend & AI-ML Engineer in the making** | CS @ RCOEM Nagpur
 
 - 🔭 Currently a **Research Intern @ VNIT Nagpur** — building route optimization systems
-- 🤖 **ML Intern experience** — trained audio classification models for bird species detection
+- 🤖 **ML Full Stack Intern experience** — trained audio classification models for bird species detection and made an app for it
 - 🌐 **Full-Stack Intern** — shipped a production web app at Techwalnut (live: [widgets.elorca.in](https://widgets.elorca.in/))
 - 📚 Completing **ML Specialization** by Andrew Ng (Stanford / DeepLearning.AI)
-- ⚡ I build things that go deep — digital wallets, e-commerce backends, prediction models
+- ⚡ Peojects — digital wallet, e-commerce backend, prediction models
 - 🎯 Actively seeking **off-campus internships** in **FinTech / Backend / AI-ML**
 - 💬 Ask me about **Spring Boot, Django, ML pipelines, or DSA in Java**
 
