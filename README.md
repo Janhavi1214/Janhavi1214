@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-**Backend & AI-ML Engineer in the making** | CS @ RCOEM Nagpur
+CS @ RCOEM Nagpur
 
 - 🔭 Currently a **Research Intern @ VNIT Nagpur** — building route optimization systems
 - 🤖 **ML Full Stack Intern experience** — trained audio classification models for bird species detection and made an app for it
