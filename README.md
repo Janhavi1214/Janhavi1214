@@ -2,7 +2,7 @@
 
 CS @ RCOEM Nagpur
 
-- 🔭 Interned as a **Research Intern @ VNIT Nagpur** — building route optimization systems
+- 🔭 **Research Intern @ VNIT Nagpur** — build a route optimization systems
 - 🤖 **ML Full Stack Intern experience** — trained audio classification models for bird species detection and made an app for it
 - 🌐 **Full-Stack Intern** — shipped a production web app at Techwalnut (live: [widgets.elorca.in](https://widgets.elorca.in/))
 - ⚡ Projects — digital wallet, e-commerce backend, prediction models
