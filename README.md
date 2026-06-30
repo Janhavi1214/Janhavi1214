@@ -47,7 +47,7 @@ CS @ RCOEM Nagpur
 
 | Project | Stack | What it does |
 |---|---|---|
-| 💳 **Digital Wallet Backend** | Java, Spring Boot, MySQL | RESTful APIs for wallet management — auth, balance tracking, transactions |
+| 💳 **Digital Wallet Backend - NexWallet** | Java, Spring Boot, MySQL | RESTful APIs for wallet management — auth, balance tracking, transactions |
 | 🛒 **E-Commerce Platform** | Spring Boot, Spring Security, Hibernate, MySQL | Full-stack with role-based auth, cart, order management |
 | 📊 **F1 Race Prediction Model** | Python, ML | Predicts race outcomes using telemetry & sector data |
 | 🏠 **Real Estate Price Predictor** | Python, Deep Learning | Neural network model on historical property data |
