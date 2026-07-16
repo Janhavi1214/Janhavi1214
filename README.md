@@ -2,6 +2,7 @@
 
 CS @ RCOEM Nagpur
 
+- 🌐 Portfolio - https://janhavi-vaidya-1410.netlify.app/
 - 🔭 **Research Intern @ VNIT Nagpur** — build a route optimization systems
 - 🤖 **ML Full Stack Intern experience** — trained audio classification models for bird species detection and made an app for it
 - 🌐 **Full-Stack Intern** — shipped a production web app at Techwalnut (live: [widgets.elorca.in](https://widgets.elorca.in/))
