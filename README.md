@@ -46,12 +46,11 @@ CS @ RCOEM Nagpur
 
 | Project | Stack | What it does |
 |---|---|---|
-| 💳 **Digital Wallet Backend - NexWallet** | Java, Spring Boot, MySQL | RESTful APIs for wallet management — auth, balance tracking, transactions |
-| 🛒 **E-Commerce Platform** | Spring Boot, Spring Security, Hibernate, MySQL | Full-stack with role-based auth, cart, order management |
-| 📊 **F1 Race Prediction Model** | Python, ML | Predicts race outcomes using telemetry & sector data |
-| 🏠 **Real Estate Price Predictor** | Python, Deep Learning | Neural network model on historical property data |
-| 📱 **Budget Planner App** | Java, Android, XML | Finance tracker with expense categories & local persistence |
-
+| 📈 **Order Matching Engine** | Java, Spring Boot, MySQL, REST APIs | Built a stock exchange trading backend implementing **Price-Time Priority** using dual heaps (max-heap for BUY, min-heap for SELL). Supports partial/full order matching, trade execution, and REST APIs for order placement, tracking, and trade history. |
+| 💳 **NexWallet – Digital Wallet Backend** | Java, Spring Boot, MySQL | Secure digital wallet backend with RESTful APIs for user authentication, balance management, money transfers, transaction history, and wallet operations. |
+| 🛒 **E-Commerce Platform** | Spring Boot, Spring Security, Hibernate, MySQL | Full-stack e-commerce application featuring JWT-based authentication, role-based authorization, product catalog, shopping cart, and order management. |
+| 📊 **F1 Race Prediction Model** | Python, Scikit-learn, Pandas | Machine learning model that predicts Formula 1 race outcomes using historical race statistics, telemetry, and sector performance data. |
+| 🏠 **Real Estate Price Predictor** | Python, TensorFlow, Deep Learning | Deep learning model trained on historical housing data to accurately predict residential property prices. |
 ---
 
 ## 📜 Certifications
